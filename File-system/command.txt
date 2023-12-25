@@ -1,0 +1,1 @@
+add to a file new.txt content:  After some content.
